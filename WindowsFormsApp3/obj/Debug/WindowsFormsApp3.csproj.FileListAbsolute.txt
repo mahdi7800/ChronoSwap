@@ -1,0 +1,10 @@
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+Z:\Users\AFERI\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
